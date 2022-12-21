@@ -14,6 +14,8 @@ A full stack and .net developer from Taiwan Taichung City.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a> -->
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/nepail/nepail/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/nepail/nepail/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ## Languages and Tools:
 <table>
   <tr>
